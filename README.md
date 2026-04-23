@@ -1,1 +1,1 @@
-This file about landing page of e commerece of jewelery.
+This file about landing page of e commerece for jewelery.
